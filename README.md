@@ -1,0 +1,2 @@
+# Discord_Account_Generator
+Seleniumでdiscordのアカウントを作るやーつ
